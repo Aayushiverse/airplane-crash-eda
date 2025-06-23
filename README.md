@@ -34,6 +34,7 @@ airplane-crash-eda/
 ├── 📁 Data/ # Contains original CSV dataset
 
 │ └── Airplane_Crashes_and_Fatalities_Since_1908_t0_2023.csv
+
 │
 
 ├── 📁 notebooks/
@@ -41,19 +42,33 @@ airplane-crash-eda/
 │ ├── 📁 eda_workbench/ # Main exploratory notebooks
 
 │ │ ├── 00_data_cleaning_and_setup.ipynb
+
 │ │ ├── 01_feature_engineering.ipynb
+
 │ │ ├── 02_eda_basic_questions.ipynb
+
 │ │ ├── 03_eda_time_based_trends.ipynb
+
 │ │ ├── 04_eda_fatality_insights.ipynb
+
 │ │ ├── 05_eda_aircraft_operator_analysis.ipynb
+
 │ │ ├── 06_eda_location_based_analysis.ipynb
+
 │ │ └── 07_eda_text_summary_analysis.ipynb
+
 │ │
+
 │ └── 📁 final_insights/ # Final curated outputs
+
 │ └── 20_summary_and_conclusion.ipynb
+
 │
+
 ├── 📄 README.md # Project documentation
+
 ├── 📄 requirements.txt # List of dependencies
+
 ├── 📄 LICENSE # MIT License
 
 > - `feature_engineered_crashes.csv`: Final processed data file for analysis
