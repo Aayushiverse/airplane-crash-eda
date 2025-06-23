@@ -30,12 +30,16 @@ The dataset used for this analysis was sourced from [Kaggle: Airplane Crashes an
 
 ## 🗂️ Project Structure
 airplane-crash-eda/
+
 ├── 📁 Data/ # Contains original CSV dataset
+
 │ └── Airplane_Crashes_and_Fatalities_Since_1908_t0_2023.csv
 │
 
 ├── 📁 notebooks/
+
 │ ├── 📁 eda_workbench/ # Main exploratory notebooks
+
 │ │ ├── 00_data_cleaning_and_setup.ipynb
 │ │ ├── 01_feature_engineering.ipynb
 │ │ ├── 02_eda_basic_questions.ipynb
