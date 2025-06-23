@@ -2,7 +2,7 @@
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Project Structure] (#project-structure)
+- [Project Structure](#project-structure)
 - [Key Insights](#key-insights)
 - [Technologies Used](#technologies-used)
 - [Results](#results)
