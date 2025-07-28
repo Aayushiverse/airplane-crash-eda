@@ -12,6 +12,12 @@
 
 This project analyzes over 5000 global airplane crashes from 1908 to 2023 to uncover patterns in fatality rates, regional risks, aircraft types, and more. It uses Python-based data analysis and visualization techniques to reveal trends and support better aviation safety understanding.
 
+## 🎥 Storytelling Video
+
+I created a short **visual storytelling video** summarizing this project using clean transitions and soft background music — a calm walkthrough through aviation history and data.
+
+📽️ [▶️ Watch the Storytelling Video on Google Drive](https://drive.google.com/file/d/1gOad_6Ws4uV3dg6LZ33hFyz0EHiYCi65/view?usp=sharing)
+
 
 ## 📊 Dataset
 
